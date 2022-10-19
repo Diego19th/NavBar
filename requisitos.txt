@@ -1,0 +1,6 @@
+Listado
+
+Llamada con el cliente del 19 de octubre 
+- Corregir desborde de la página
+- Cambiar fondo a todo el sitio a oscuro
+- Aumentar tamaño de la fuente
